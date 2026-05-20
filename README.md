@@ -236,7 +236,7 @@ pip install pandas sqlalchemy mysql-connector-python matplotlib seaborn
 ### Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ecommerce-rfm-customer-segmentation.git
+git clone https://github.com/jeshwanth-art/ecommerce-rfm-customer-segmentation.git
 cd ecommerce-rfm-customer-segmentation
 
 # 2. Download dataset
@@ -275,8 +275,8 @@ python python/visualizations.py
 **G. Jeshwanth**
 Data Analyst | SQL · Python · Power BI · Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/gundu-jeshwanth)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/jeshwanth-art)
 
 ---
 
